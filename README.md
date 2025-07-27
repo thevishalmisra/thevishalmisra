@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishal Raman</h1>
-<h3 align="center">Aspiring Software Developer | Python & Web Dev Enthusiast</h3>
+<h3 align="center">Aspiring Software Developer and Probleme Solver</h3>
 
 ---
 
