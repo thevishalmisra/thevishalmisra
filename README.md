@@ -49,6 +49,24 @@ Here are some of my highlighted repos:
 - 🧮 [Money Management App](https://github.com/thevishalmisra/money-management)
 - 🧠 [Heart Disease Prediction](https://github.com/thevishalmisra/heart-diseases-predication)
 
+
+---
+
+### 📊 GitHub Activity & Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thevishalmisra&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+
 ---
 
 *Always learning, always building.* 🚀
