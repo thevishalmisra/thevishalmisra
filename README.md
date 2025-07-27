@@ -8,7 +8,7 @@
 - 🎯 Passionate about building scalable solutions  
 - 🔍 Always learning & working on new projects  
 - ✨ Problem Solving and Learning Enthusiast 
-- 📫 Contact me: **[ramanvishal29@gmail.com]**
+- 📫 Contact me: ramanvishal29@gmail.com
 
 ---
 
@@ -67,13 +67,12 @@
 
 ---
 
-### 🚀 Projects:
+### 🚀 Website:
 
-Here are some of my highlighted repos:
+Here is my Portfolio Website:
 
-- 🔧 [Portfolio Website](https://github.com/thevishalmisra/portfolio)
-- 🧮 [Money Management App](https://github.com/thevishalmisra/money-management)
-- 🧠 [Heart Disease Prediction](https://github.com/thevishalmisra/heart-diseases-predication)
+- 🔧 [Portfolio Website](https://myportfolio-wpsn.vercel.app/)
+
 
 
 ---
