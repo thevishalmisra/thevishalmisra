@@ -1,118 +1,136 @@
 <div align="center">
 
-# 👋 Hi, I'm <a href="https://your-portfolio.vercel.app">Vishal Raman</a>
+# Vishal Raman
 
-### Software Engineer • Full Stack Developer • AI Enthusiast
+Software Engineer
 
-*Building scalable products that solve real-world problems.*
+Building modern web applications, AI-powered experiences,
+and software that solves real-world problems.
 
 <br>
 
-<a href="https://your-portfolio.vercel.app">Portfolio</a> •
-<a href="https://linkedin.com/in/vishal-raman-80b60525b">LinkedIn</a> •
+<a href="https://your-portfolio.vercel.app">Portfolio</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="https://linkedin.com/in/vishal-raman-80b60525b">LinkedIn</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:ramanvishal29@gmail.com">Email</a>
 
 </div>
 
 ---
 
+## About
+
+I'm a software engineer who enjoys building products from the ground up.
+
+My interests lie at the intersection of **Full Stack Development**, **Artificial Intelligence**, and **Backend Engineering**. I enjoy transforming ideas into polished, production-ready applications with a strong focus on performance, usability, and clean architecture.
+
+Outside of coding, I'm constantly learning, refining my craft, and exploring technologies that make software better.
+
+---
+
+## Currently
+
 ```text
-class VishalRaman {
+Building
+├── Full Stack Applications
+├── AI Powered Products
+└── Backend Services
 
-    role        = "Software Engineer";
-    education   = "B.Tech Computer Science";
-    location    = "New Delhi, India";
+Learning
+├── Distributed Systems
+├── Cloud Architecture
+└── System Design
 
-    currentlyLearning = [
-        "System Design",
-        "Cloud",
-        "Docker",
-        "CI/CD"
-    ];
-
-    interests = [
-        "Full Stack Development",
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "Developer Experience"
-    ];
-
-}
+Interested In
+├── Software Engineering
+├── Developer Experience
+└── Open Source
 ```
 
 ---
 
-## About Me
+## Stack
 
-I enjoy building applications that are fast, scalable, and genuinely useful.
+```text
+Languages
+Java
+JavaScript
+TypeScript
 
-Over the past few years I've worked on AI-powered products, full-stack web applications, real-time collaborative systems, and automation tools. I love turning ideas into polished software while constantly learning better engineering practices.
+Frontend
+React
+Next.js
+Tailwind CSS
+HTML
+CSS
+
+Backend
+Node.js
+Express
+FastAPI
+
+Database
+MongoDB
+MySQL
+
+AI
+OpenAI
+Gemini
+LangChain
+RAG
+
+Tools
+Git
+Docker
+Firebase
+Postman
+Vercel
+Render
+```
 
 ---
 
 ## Experience
 
-**Software Developer Intern**  
-**Tata Steel**
+```text
+Software Developer Intern
+Tata Steel
 
-→ Built and deployed production-ready AI solutions.
-
-→ Improved application performance and accessibility.
-
-→ Worked in Agile teams and contributed to CI/CD workflows.
-
----
-
-## Tech I Work With
-
-```
-Languages
-Java • JavaScript • TypeScript
-
-Frontend
-React • Next.js • HTML • CSS • Tailwind CSS • Vite
-
-Backend
-Node.js • Express • FastAPI • REST APIs
-
-Database
-MongoDB • MySQL
-
-AI
-OpenAI • Gemini • LangChain • RAG
-
-Tools
-Git • GitHub • Docker • Firebase • Postman
-VS Code • Vercel • Render
+• Built AI-powered production applications.
+• Improved application performance and accessibility.
+• Worked with Agile teams and CI/CD workflows.
 ```
 
 ---
 
 ## Highlights
 
-• 🥈 Project Expo 2026 — 2nd Place
+```text
+• IEEE Conference Publication
 
-• 🏆 Smart India Hackathon Finalist
+• Smart India Hackathon Finalist
 
-• 🚀 AKTU Aldea Challenge Finalist
+• Project Expo 2026 — 2nd Place
 
-• 📄 IEEE Research Publication
+• AKTU Aldea Challenge Finalist
+```
 
 ---
 
-## GitHub Analytics
+## GitHub
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark"/>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=transparent&hide_border=true"/>
+<img width="49%" src="https://streak-stats.demolab.com?user=thevishalmisra&hide_border=true&theme=github-dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=transparent&hide_border=true"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark"/>
 
 </p>
 
@@ -120,8 +138,6 @@ VS Code • Vercel • Render
 
 <div align="center">
 
-### Thanks for stopping by 👋
-
-*I enjoy collaborating on meaningful projects and continuously learning new technologies.*
+> *"Great software is built one thoughtful decision at a time."*
 
 </div>
