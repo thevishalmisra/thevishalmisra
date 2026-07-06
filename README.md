@@ -123,12 +123,6 @@ Worked On:
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=thevishalmisra&style=flat-square&color=58A6FF"/>
-
-<br><br>
-
 > *"Building software isn't just about writing code—it's about creating experiences that make an impact."*
 
 </div>
