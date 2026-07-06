@@ -6,7 +6,7 @@
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-main-ebon-three.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -16,10 +16,6 @@
 
 <a href="mailto:ramanvishal29@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/thevishalmisra">
-    <img src="https://img.shields.io/github/followers/thevishalmisra?label=Followers&style=for-the-badge"/>
 </a>
 
 </div>
@@ -43,11 +39,6 @@ Currently looking for opportunities where I can build impactful software while c
   • Full Stack Applications
   • AI Powered Products
   • Backend Services
-
-! Learning
-  • Distributed Systems
-  • Cloud Architecture
-  • System Design
 
 # Interested In
   • Software Engineering
@@ -112,32 +103,11 @@ Worked On:
 
 ⭐ AKTU Aldea Challenge Finalist
 
-💼 Former Software Developer Intern @ Tata Steel
+💼 Former Software Developer Intern @ Tata Steel & Blue Stock
 ```
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevishalmisra&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=thevishalmisra&theme=github-dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
-
-</p>
 
 ---
 
@@ -145,7 +115,7 @@ Worked On:
 
 <p align="center">
 
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+<a href="https://portfolio-main-ebon-three.vercel.app/">Portfolio</a> •
 <a href="https://linkedin.com/in/vishal-raman-80b60525b">LinkedIn</a> •
 <a href="mailto:ramanvishal29@gmail.com">Email</a>
 
