@@ -25,10 +25,8 @@
 # About
 
 I'm a Software Engineer passionate about building modern web applications, AI-powered experiences, and scalable backend systems.
-
 I enjoy turning ideas into polished products with a focus on performance, clean architecture, and user experience.
-
-Currently looking for opportunities where I can build impactful software while continuously learning and growing.
+Currently looking for opportunities where I can build impactful software while continuously learning and growing. 
 
 ---
 
