@@ -3,6 +3,7 @@
 # <a href="YOUR_PORTFOLIO_URL">Vishal Raman</a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Products+That+Matter" alt="Typing SVG" />
+
 📍 **New Delhi, India**
 <br><br>
 
