@@ -1,136 +1,153 @@
 <div align="center">
 
-# Vishal Raman
+# <a href="YOUR_PORTFOLIO_URL">Vishal Raman</a>
 
-Software Engineer
-
-Building modern web applications, AI-powered experiences,
-and software that solves real-world problems.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Products+That+Matter" alt="Typing SVG" />
 
 <br>
 
-<a href="https://your-portfolio.vercel.app">Portfolio</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://linkedin.com/in/vishal-raman-80b60525b">LinkedIn</a>
-&nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:ramanvishal29@gmail.com">Email</a>
+<a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/vishal-raman-80b60525b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ramanvishal29@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thevishalmisra">
+    <img src="https://img.shields.io/github/followers/thevishalmisra?label=Followers&style=for-the-badge"/>
+</a>
 
 </div>
 
 ---
 
-## About
+# About
 
-I'm a software engineer who enjoys building products from the ground up.
+I'm a Software Engineer passionate about building modern web applications, AI-powered experiences, and scalable backend systems.
 
-My interests lie at the intersection of **Full Stack Development**, **Artificial Intelligence**, and **Backend Engineering**. I enjoy transforming ideas into polished, production-ready applications with a strong focus on performance, usability, and clean architecture.
+I enjoy turning ideas into polished products with a focus on performance, clean architecture, and user experience.
 
-Outside of coding, I'm constantly learning, refining my craft, and exploring technologies that make software better.
+Currently looking for opportunities where I can build impactful software while continuously learning and growing.
 
 ---
 
-## Currently
+# Currently
 
-```text
-Building
-├── Full Stack Applications
-├── AI Powered Products
-└── Backend Services
+```diff
++ Building
+  • Full Stack Applications
+  • AI Powered Products
+  • Backend Services
 
-Learning
-├── Distributed Systems
-├── Cloud Architecture
-└── System Design
+! Learning
+  • Distributed Systems
+  • Cloud Architecture
+  • System Design
 
-Interested In
-├── Software Engineering
-├── Developer Experience
-└── Open Source
+# Interested In
+  • Software Engineering
+  • Artificial Intelligence
+  • Open Source
 ```
 
 ---
 
-## Stack
+# Tech Stack
 
 ```text
-Languages
-Java
-JavaScript
-TypeScript
+Languages      Java • JavaScript • TypeScript
 
-Frontend
-React
-Next.js
-Tailwind CSS
-HTML
-CSS
+Frontend       React • Next.js • HTML • CSS
+               Tailwind CSS • Vite • Bootstrap
 
-Backend
-Node.js
-Express
-FastAPI
+Backend        Node.js • Express • FastAPI
+               REST APIs • JWT Authentication
 
-Database
-MongoDB
-MySQL
+Database       MongoDB • MySQL
 
-AI
-OpenAI
-Gemini
-LangChain
-RAG
+AI             OpenAI • Gemini
+               LangChain • RAG
 
-Tools
-Git
-Docker
-Firebase
-Postman
-Vercel
-Render
+Cloud          Docker • Firebase
+               Vercel • Render
+
+Tools          Git • GitHub • Postman
+               VS Code • Cursor
 ```
 
 ---
 
-## Experience
+# Experience
 
-```text
-Software Developer Intern
-Tata Steel
+```yaml
+Company:
+  Tata Steel
 
-• Built AI-powered production applications.
-• Improved application performance and accessibility.
-• Worked with Agile teams and CI/CD workflows.
+Role:
+  Software Developer Intern
+
+Worked On:
+  - AI-powered chatbot
+  - Performance optimization
+  - Accessibility improvements
+  - CI/CD pipelines
+  - Agile development
 ```
 
 ---
 
-## Highlights
+# Highlights
 
 ```text
-• IEEE Conference Publication
+🏆 IEEE Conference Research Publication
 
-• Smart India Hackathon Finalist
+🥈 Project Expo 2026 — 2nd Place
 
-• Project Expo 2026 — 2nd Place
+🚀 Smart India Hackathon Finalist
 
-• AKTU Aldea Challenge Finalist
+⭐ AKTU Aldea Challenge Finalist
+
+💼 Former Software Developer Intern @ Tata Steel
 ```
 
 ---
 
-## GitHub
+# GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=thevishalmisra&hide_border=true&theme=github-dark"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thevishalmisra&theme=github_dark"/>
 
 </p>
 
 <p align="center">
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=thevishalmisra&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="YOUR_PORTFOLIO_URL">Portfolio</a> •
+<a href="https://linkedin.com/in/vishal-raman-80b60525b">LinkedIn</a> •
+<a href="mailto:ramanvishal29@gmail.com">Email</a>
 
 </p>
 
@@ -138,6 +155,10 @@ Tata Steel
 
 <div align="center">
 
-> *"Great software is built one thoughtful decision at a time."*
+<img src="https://komarev.com/ghpvc/?username=thevishalmisra&style=flat-square&color=58A6FF"/>
+
+<br><br>
+
+> *"Building software isn't just about writing code—it's about creating experiences that make an impact."*
 
 </div>
