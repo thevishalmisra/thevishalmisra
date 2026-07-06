@@ -1,73 +1,131 @@
-<h1 align="center">Hi, I'm Vishal Raman 👋</h1>
-<h3 align="center">Aspiring Software Developer | Problem Solver | Tech Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Vishal Raman</h1>
 
----
-
-### 👨‍💻 About Me
-I build powerful, scalable web applications using a wide-ranging tech stack. Currently pursuing my passion for developing clean, efficient, and impactful solutions.  
-- Based in **New Delhi**, affiliated with **IMS Engineering College**  
-- Always exploring and building new ideas  
-- Email: **ramanvishal29@gmail.com**  
-- Portfolio: [myportfolio-wpsn.vercel.app](https://myportfolio-wpsn.vercel.app/)  
-
----
-
-### 🛠️ Tech Stack  
+<h3 align="center">
+Software Engineer • Full Stack Developer • AI Enthusiast
+</h3>
 
 <p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Databases & Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Tools & IDEs -->
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
+Building scalable web applications, AI-powered products, and solving real-world problems through code.
 </p>
 
 ---
 
-### 🏆 Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=thevishalmisra&theme=radical&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+## 🚀 About Me
+
+🎓 Computer Science Graduate (2026)
+
+💼 Former Software Developer Intern at **Tata Steel**
+
+🧠 Passionate about **Full Stack Development**, **Generative AI**, and **System Design**
+
+📄 IEEE Research Author in AI-Powered Image Similarity Search
+
+🌱 Currently exploring **Cloud**, **Docker**, **CI/CD**, and **Scalable Backend Systems**
 
 ---
 
-### 🚀 Featured Projects
-- **Ether AI – Gemini Chatbot**: Conversational AI chatbot powered by Google Gemini (Next.js, React, Tailwind CSS), with voice input and streaming responses.  
-- **CryptoPlace**: Responsive crypto tracker built with React, Vite, and Tailwind CSS.  
-- **MyPortfolio**: Developer portfolio website built with React, Tailwind CSS, and Vite, deployed on Vercel.  
+## 🛠 Tech Stack
+
+### Languages
+Java • JavaScript • TypeScript
+
+### Frontend
+React.js • Next.js • HTML • CSS • Tailwind CSS • Vite • Framer Motion
+
+### Backend
+Node.js • Express.js • REST APIs • JWT Authentication • FastAPI
+
+### Database
+MongoDB • MySQL
+
+### AI & GenAI
+OpenAI • Google Gemini • LangChain • RAG • Prompt Engineering
+
+### Tools
+Git • GitHub • Docker • Firebase • Postman • Vercel • Render • VS Code • Cursor
 
 ---
 
-### 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vishal-raman-80b60525b/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel)](https://myportfolio-wpsn.vercel.app/)  
-📧 **Email:** ramanvishal29@gmail.com  
+# 🚀 Featured Projects
+
+### 🎨 SyncBoard
+Real-time collaborative whiteboard built with React, Node.js, MongoDB and Socket.IO.
+
+✨ Features
+- Live collaboration
+- Room-based sessions
+- Multi-user drawing
+- Low-latency synchronization
 
 ---
 
-✨ *“Always learning, always building.”* 🚀
+### 💰 Budget Buddy
+AI-powered expense tracker using Google Gemini.
+
+✨ Features
+- AI financial assistant
+- Expense analytics
+- Smart spending insights
+- Interactive dashboards
+
+---
+
+### 💊 Medicare Plus
+Medication Management System with OCR-powered prescription scanning.
+
+✨ Features
+- Medicine reminders
+- Caregiver notifications
+- OCR prescription digitization
+- Patient monitoring
+
+---
+
+## 🏆 Achievements
+
+🥈 2nd Place — Project Expo 2026
+
+🏅 Smart India Hackathon 2024 Finalist
+
+🏅 AKTU Aldea Challenge Finalist (Top 50 Teams)
+
+📄 IEEE Conference Research Publication (NMIC 2026)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+📧 **Email:** ramanvishal29@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/vishal-raman-80b60525b
+
+🌐 **Portfolio:** *(Add your portfolio link here)*
+
+💻 **GitHub:** https://github.com/thevishalmisra
+
+---
+
+<p align="center">
+
+### ⭐ "Code. Learn. Build. Repeat."
+
+</p>
 
