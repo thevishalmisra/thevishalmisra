@@ -31,29 +31,6 @@ Currently looking for opportunities where I can build impactful software while c
 
 ---
 
-# Tech Stack
-
-```text
-Languages      Java • JavaScript • TypeScript
-
-Frontend       React • Next.js • HTML • CSS
-               Tailwind CSS • Vite • Bootstrap
-
-Backend        Node.js • Express • FastAPI
-               REST APIs • JWT Authentication
-
-Database       MongoDB • MySQL
-
-AI             OpenAI • Gemini
-               LangChain • RAG
-
-Cloud          Docker • Firebase
-               Vercel • Render
-
-Tools          Git • GitHub • Postman
-               VS Code • Cursor
-```
-
 ---
 
 # Experience
