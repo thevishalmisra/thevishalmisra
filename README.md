@@ -86,7 +86,7 @@ Worked On:
 
 ⭐ AKTU Aldea Challenge Finalist
 
-💼 Former Software Developer Intern @ Tata Steel & Blue Stock
+💼 Former Software Developer Intern @ Tata Steel & BlueStock
 ```
 
 ---
