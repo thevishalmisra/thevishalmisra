@@ -31,22 +31,6 @@ Currently looking for opportunities where I can build impactful software while c
 
 ---
 
-# Currently
-
-```diff
-+ Building
-  • Full Stack Applications
-  • AI Powered Products
-  • Backend Services
-
-# Interested In
-  • Software Engineering
-  • Artificial Intelligence
-  • Open Source
-```
-
----
-
 # Tech Stack
 
 ```text
