@@ -1,11 +1,16 @@
 <h2 align="center">Hi, I'm Vishal Raman 👋</h2>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;" /></a>
+  <a align="center" href="https://github.com/thevishalmisra/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;" /></a>
+</p>
+</p>
+<p align="center">
+<a href="https://portfolio-main-ebon-three.vercel.app/" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-2EA2F7?style=for-the-badge&logo=vercel&logoColor=white" height="25px"/></a>&nbsp;
+<a href="https://linkedin.com/in/vishal-raman-80b60525b" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25px"/></a>&nbsp;
+<a href="mailto:ramanvishal29@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25px"/></a>&nbsp;
+<a href="https://github.com/thevishalmisra" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white" height="25px"/></a>
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
-</p>
 <p>
 Computer Science graduate and Full-Stack Developer with hands-on experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
 </p>
