@@ -24,12 +24,12 @@ Computer Science graduate and Full-Stack Developer with hands-on experience work
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 🌱 Working Always on NextJS, Typescript & ReactJs</li>
   <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
-  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li>- 💬 Ask me about anything, Except DSA :sweat_smile:</li>
   <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
-  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
+  <li>- ⚡ Fun fact: I waste most of my time in sleeping</li>
 </ul>
 
 
@@ -37,8 +37,8 @@ Computer Science graduate and Full-Stack Developer with hands-on experience work
 ```javascript
 const Vishal = {
   pronouns: "He" | "Him",
-  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
-  askMeAbout: ["web dev", "frontend dev", "python" ],
+  code: ["Javascript", "Python", "HTML", "CSS", "Java"],
+  askMeAbout: ["web dev", "Full Stack dev"],
   technologies: {
       frontend: {
           js: ["React JS", "Next JS" , "Typescript" ],
@@ -66,7 +66,6 @@ const Vishal = {
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
 <img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
 <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
@@ -79,5 +78,3 @@ const Vishal = {
   <img alt="Github Contribution Snake" src="https://raw.githubusercontent.com/thevishalmisra/thevishalmisra/output/github-contribution-grid-snake.svg" />
 </picture>
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vishal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
