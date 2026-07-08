@@ -1,4 +1,4 @@
-### Hello world, I'm Vishal 👋 
+### Hello world, I'm [Vishal](https://portfolio-main-ebon-three.vercel.app/) 👋 
 
 -----
 
@@ -31,48 +31,4 @@
 
 -----  
 
-<h1 align="center">Projects</h1>
 
-<div align="center">
- 
-<a href="https://github.com/thevishalmisra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thevishalmisra&repo=SyncBoard&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/thevishalmisra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thevishalmisra&repo=Budget-Buddy&show_icons=true&theme=great-gatsby" ></a>
-<a href="https://github.com/thevishalmisra"><img src="https://github-readme-stats.vercel.app/api/pin/?username=thevishalmisra&repo=Medicare-Plus&show_icons=true&theme=great-gatsby"></a>
-
-</div>
-
-### Languages and Tools
-
-<p>
- 
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/typescript/typescript-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/react/react-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nextjs/nextjs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/vscode/vscode-ar21.svg"></code>
- 
------
-  
-</p>
-
-<h1 align="center">Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-</div>
- 
-<img align="left" alt="Vishal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&&show_icons=true&theme=dark" width="50%" />
-<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=dark" width="46%" />
-<br>
