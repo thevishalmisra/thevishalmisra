@@ -1,13 +1,13 @@
 <h2 align="center">Hi, I'm Vishal Raman 👋</h2>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=2EA2F7&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+%2B+AI+Developer;Building+with+React%2C+Node.js+%26+LLMs;" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+Developer;" /></a>
 </p>
 
 <p align="center">
-<img align="middle" alt="GIF" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="500"/>
+<img align="middle" alt="GIF" src="https://camo.githubusercontent.com/dd9b4a35c79a57583ccfc38c3512469e375ebae578f7a90aa020f57748a81dfc/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f68642f3232383733353133373131393831312e363230353437323462616630622e676966" />
 </p>
 <p>
-Computer Science graduate and self-motivated Full-Stack Developer with hands-on experience shipping production AI tools during my internship at Tata Steel. I enjoy building real-time systems, working with LLMs, and turning ideas into polished, working products.
+Computer Science graduate and Full-Stack Developer with hands-on experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
 </p>
 <p align="center">
  
@@ -15,40 +15,39 @@ Computer Science graduate and self-motivated Full-Stack Developer with hands-on 
 
 </p>
 
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <br>
   <a align='center' href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=thevishalmisra&label=Profile%20Views&color=0&icon=0&pretty=true" />
 </a>
-
-**Talking about Personal Stuff:**
+  
+**Talking about Personal Stuffs:**
 <ul>
-  <li>- 🔭 I'm currently working on `AI-integrated web apps`</li>
-  <li>- 🌱 I'm currently learning `RAG systems & LangChain`</li>
-  <li>- 👯 I'm looking to collaborate on `Full-Stack / Gen AI projects`</li>
-  <li>- 🤔 I'm looking for help with `System Design`</li>
-  <li>- 💬 Ask me about anything, web dev or AI :sweat_smile:</li>
-  <li>- 👨‍💻 Life Hack: Ship it, then improve it :fire:</li>
-  <li>- ⚡ Fun fact: I published an IEEE paper before my first full-time job</li>
+  <li>- 🔭 I’m currently working on `Something Intresting`.</li>
+  <li>- 🌱 I’m currently learning NextJS & Typescript</li>
+  <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
+  <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
+  <li>- 💬 Ask me about anything, Except Maths :sweat_smile:</li>
+  <li>- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:</li>
+  <li>- ⚡ Fun fact: I waste most of my time playing games</li>
 </ul>
+
 
 #### A little more about me
 ```javascript
 const Vishal = {
   pronouns: "He" | "Him",
-  education: "B.Tech, Computer Science",
-  code: ["JavaScript", "TypeScript", "Python", "Java"],
-  askMeAbout: ["web dev", "full stack dev", "generative AI"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C++"],
+  askMeAbout: ["web dev", "frontend dev", "python" ],
   technologies: {
       frontend: {
-          js: ["React JS", "Next JS", "TypeScript"],
-          css: ["Tailwind CSS", "Framer Motion"]
+          js: ["React JS", "Next JS" , "Typescript" ],
+          css: ["Tailwind CSS", "SCSS/SASS"]
       },
-      backend: {
-          js: ["Node.js", "Express.js"],
-          databases: ["MongoDB", "MySQL"]
-      },
-      ai: ["LangChain", "RAG", "OpenAI API", "Gemini API"],
-      codeEditor: ["VS Code", "Cursor"]
+      codeEditor: {
+          competitiveProgramming: ["VS Code"],
+          frontEndDev: ["VS Code"]
+      }
   }
 }
 ```
@@ -56,23 +55,24 @@ const Vishal = {
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height="25px"/>
-<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25px"/>
+<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="25px"/>
-<img alt="Tailwindcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
+<img alt="Material UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" height="25px"/>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" height="25px"/>
-<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="25px"/>
+<img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"  height="25px"/>
 <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
 <img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="Jquery" src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="25px"/>
-<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25px"/>
-
-### 🚀 My contributions!
+<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
+ 
+ 
+### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thevishalmisra/thevishalmisra/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thevishalmisra/thevishalmisra/output/github-contribution-grid-snake.svg" />
@@ -81,4 +81,3 @@ const Vishal = {
 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Vishal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
-
