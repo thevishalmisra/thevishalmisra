@@ -29,7 +29,7 @@ Computer Science graduate and Full-Stack Developer with hands-on experience work
 **Talking about Personal Stuffs:**
 <ul>
   <li>- 🔭 I’m currently working on `Something Intresting`.</li>
-  <li>- 🌱 Working Always on NextJS, Typescript & ReactJs</li>
+  <li>- 🌱 Working Always on ReactJS, Typescript & NodeJs</li>
   <li>- 👯 I’m looking to collaborate for `Dev Projects`</li>
   <li>- 🤔 I’m looking for help with `Competitive Programming`</li>
   <li>- 💬 Ask me about anything, Except DSA :sweat_smile:</li>
