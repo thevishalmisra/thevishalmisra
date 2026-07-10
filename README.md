@@ -39,6 +39,7 @@ Computer Science graduate and Full-Stack Developer with hands-on experience work
 
 
 #### A little more about me
+```javascript
 const Vishal = {
   pronouns: "He/Him",
   role: "Software Engineer",
@@ -61,9 +62,14 @@ const Vishal = {
     database: ["MongoDB", "MySQL"],
     devOps: ["Docker", "Git", "CI/CD"],
     tools: ["Postman", "GitHub", "Vercel"]
-  }
-};yLearning: ["System Design", "Cloud", "Advanced Backend"]
+  },
+  currentlyLearning: [
+    "System Design",
+    "Cloud",
+    "Advanced Backend"
+  ]
 };
+
 ```
 ## 🛠️ Technologies and Tools I use:
 <p>
