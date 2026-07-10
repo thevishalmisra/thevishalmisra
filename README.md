@@ -40,15 +40,29 @@ Computer Science graduate and Full-Stack Developer with hands-on experience work
 
 #### A little more about me
 const Vishal = {
+  pronouns: "He/Him",
   role: "Software Engineer",
-  code: ["Java", "JavaScript", "TypeScript"],
-  stack: {
-    frontend: ["React.js", "Next.js", "Tailwind CSS"],
-    backend: ["Node.js", "Express.js"],
-    database: ["MongoDB"],
-    tools: ["Docker", "Git", "Postman"]
-  },
-  currentlyLearning: ["System Design", "Cloud", "Advanced Backend"]
+  code: ["Java", "JavaScript", "TypeScript", "Python"],
+  askMeAbout: [
+    "Full Stack Development",
+    "Web Development",
+    "REST APIs",
+    "AI-powered Applications"
+  ],
+  technologies: {
+    frontend: {
+      js: ["React.js", "Next.js"],
+      css: ["Tailwind CSS"]
+    },
+    backend: {
+      runtime: ["Node.js"],
+      framework: ["Express.js"]
+    },
+    database: ["MongoDB", "MySQL"],
+    devOps: ["Docker", "Git", "CI/CD"],
+    tools: ["Postman", "GitHub", "Vercel"]
+  }
+};yLearning: ["System Design", "Cloud", "Advanced Backend"]
 };
 ```
 ## 🛠️ Technologies and Tools I use:
