@@ -64,7 +64,7 @@ const Vishal = {
     tools: ["Postman", "GitHub", "Vercel"]
   },
   currentlyLearning: [
-    "System Design",
+    "DSA",
     "Cloud",
     "Advanced Backend"
   ]
