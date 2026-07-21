@@ -12,7 +12,7 @@
 
 <p align="center">
 <p>
-Computer Science graduate and Full-Stack Developer with hands-on experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
+Computer Science graduate with hands-on experience working on multiple projects. Passionate, hardworking and like to learn something new technology. Promotes best practices in web design and offering diverse customer project portfolios.
 </p>
 <p align="center">
  
