@@ -7,11 +7,12 @@ A passionate developer who loves building useful products and learning new techn
 [Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](ramanvishal29@email.com)
 
 <p align="center">
-
-<img width="50%" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+       width="900"
+       height="220"
+       style="border-radius:12px;"
+       alt="Coding Banner">
 </p>
-
 ---
 
 ## 👋 About Me
