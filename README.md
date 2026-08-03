@@ -8,7 +8,7 @@ A passionate developer who loves building useful products and learning new techn
 
 <p align="center">
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56f6c84-7d6d-49dc-a6d4-3e6f9c5f0f85.gif"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
