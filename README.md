@@ -24,30 +24,6 @@ A passionate developer who loves building useful products and learning new techn
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-
-Java • JavaScript • TypeScript • Python
-
-**Frontend**
-
-React • Next.js • HTML • CSS • Tailwind CSS
-
-**Backend**
-
-Node.js • Express.js • REST APIs
-
-**Database**
-
-MongoDB • MySQL
-
-**Tools**
-
-Git • GitHub • Docker • Postman • VS Code • Vercel
-
----
-
 ## 📫 Connect with Me
 
 - Portfolio: https://portfolio-main-ebon-three.vercel.app/
