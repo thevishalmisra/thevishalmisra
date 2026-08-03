@@ -4,7 +4,7 @@
 
 A passionate developer who loves building useful products and learning new technologies.
 
-[Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](mailto:your@email.com)
+[Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](ramanvishal29@email.com)
 
 </div>
 
@@ -45,9 +45,9 @@ Git • GitHub • Docker • Postman • VS Code • Vercel
 
 ## 📫 Connect with Me
 
-- Portfolio: https://your-portfolio.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Email: your@email.com
+- Portfolio: https://portfolio-main-ebon-three.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/vishal-raman-80b60525b/
+- Email: ramanvishal29@email.com
 
 ---
 
