@@ -6,8 +6,11 @@ A passionate developer who loves building useful products and learning new techn
 
 [Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](ramanvishal29@email.com)
 
-</div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,50:2563eb,100:38bdf8&text=Building%20Software%20That%20Matters&fontColor=ffffff&fontSize=36&fontAlignY=40&desc=Full%20Stack%20Development%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Backend%20Engineering&descAlignY=60&animation=fadeIn"/>
+<p align="center">
+
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212744275-c56f6c84-7d6d-49dc-a6d4-3e6f9c5f0f85.gif"/>
+
+</p>
 
 ---
 
