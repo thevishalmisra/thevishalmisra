@@ -2,98 +2,58 @@
 
 # Hi, I'm Vishal Raman 👋
 
-### Computer Science Graduate • Full Stack Developer • Product Enthusiast
+A passionate developer who loves building useful products and learning new technologies.
 
-<p>
-<a href="https://your-portfolio.com">Portfolio</a> •
-<a href="https://linkedin.com/in/your-linkedin">LinkedIn</a> •
-<a href="mailto:ramanvishal29@gmail.com">Email</a> •
-<a href="https://github.com/your-github">GitHub</a>
-</p>
+[Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](mailto:your@email.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a Computer Science graduate passionate about building scalable web applications and solving real-world problems through technology.
-
-- 🚀 Building full-stack applications with modern web technologies
-- 🌱 Currently exploring **Cloud, System Design & Advanced Backend**
-- 🤝 Open to collaborating on **Open Source & Full Stack Projects**
-- 💬 Ask me about **React, Node.js, REST APIs, JavaScript & TypeScript**
-- ⚡ Fun fact: I probably spend more time sleeping than debugging 😄
+- 💻 Passionate about software development
+- 🌱 Always learning something new
+- 🤝 Open to collaborating on interesting projects
+- 🚀 Love building clean and scalable applications
 
 ---
 
-## 💻 Tech Stack
+## 🛠 Tech Stack
 
-### Languages
+**Languages**
 
-`Java` • `JavaScript` • `TypeScript` • `Python`
+Java • JavaScript • TypeScript • Python
 
-### Frontend
+**Frontend**
 
-`React.js` • `Next.js` • `HTML5` • `CSS3` • `Tailwind CSS` • `Bootstrap` • `Vite` • `Framer Motion`
+React • Next.js • HTML • CSS • Tailwind CSS
 
-### Backend
+**Backend**
 
-`Node.js` • `Express.js` • `FastAPI` • `REST APIs` • `JWT`
+Node.js • Express.js • REST APIs
 
-### Database
+**Database**
 
-`MongoDB` • `MySQL` • `Firebase`
+MongoDB • MySQL
 
-### AI & Tools
+**Tools**
 
-`OpenAI API` • `Gemini API` • `LangChain`
-
-### DevOps & Development
-
-`Docker` • `Git` • `GitHub` • `Postman` • `VS Code` • `Socket.IO` • `Vercel`
+Git • GitHub • Docker • Postman • VS Code • Vercel
 
 ---
 
-## 📚 Currently Learning
+## 📫 Connect with Me
 
-- ☁️ Cloud Computing
-- 🧠 Data Structures & Algorithms
-- ⚙️ Advanced Backend Development
-- 🏗️ System Design
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-</p>
-
----
-
-## 🤝 Let's Connect
-
-If you have an interesting project, startup idea, or just want to connect, feel free to reach out.
-
-📧 **ramanvishal29@gmail.com**
+- Portfolio: https://your-portfolio.com
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: your@email.com
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Keep learning. Keep building. Keep growing."*
+Thanks for stopping by! ⭐
 
 </div>
  
