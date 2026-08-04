@@ -29,6 +29,7 @@ A passionate developer who loves building useful products and learning new techn
 - Portfolio: https://portfolio-main-ebon-three.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/vishal-raman-80b60525b/
 - Email: ramanvishal29@email.com
+- Medium: https://medium.com/@thevishalmisra
 
 ---
 
