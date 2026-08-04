@@ -21,6 +21,7 @@ A passionate developer who loves building useful products and learning new techn
 - 🌱 Always learning something new
 - 🤝 Open to collaborating on interesting projects
 - 🚀 Love building clean and scalable applications
+- 💡 OPEN AI is my Current Fav Partner
 
 ---
 
