@@ -44,7 +44,7 @@ I'm Vishal, a Computer Science graduate who enjoys creating useful products, sol
 
 ## 📖 A Small Reminder
 
-> Great products aren't built in a day. They're built one improvement at a time.
+> Great products aren't built in a day. But great ideas are built overnight.
 
 ---
 
