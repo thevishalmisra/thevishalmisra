@@ -1,39 +1,50 @@
 <div align="center">
 
-# Hi, I'm Vishal Raman 👋
+# Hey, I'm Vishal Raman 👋
 
-A passionate developer who loves building useful products and learning new technologies.
+### Building ideas, learning continuously, and enjoying the process.
 
-[Portfolio](https://portfolio-main-ebon-three.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/vishal-raman-80b60525b/) • [Email](ramanvishal29@email.com)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-       width="900"
-       height="220"
-       style="border-radius:12px;"
-       alt="Coding Banner">
+<p>
+  <a href="https://portfolio-main-ebon-three.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/vishal-raman-80b60525b/">LinkedIn</a> •
+  <a href="mailto:ramanvishal29@email.com">Email</a>
 </p>
+
+<img
+  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+  width="100%"
+  height="220"
+  alt="Coding Banner"
+/>
+
+</div>
+
 ---
 
 ## 👋 About Me
 
-- 💻 Passionate about software development
-- 🌱 Always learning something new
-- 🤝 Open to collaborating on interesting projects
-- 🚀 Love building clean and scalable applications
-- 💡 OPEN AI is my Current Fav Partner
+I'm Vishal, a Computer Science graduate who enjoys creating useful products, solving problems, and exploring new technologies.
+
+- 🚀 Turning ideas into real-world applications
+- 🌱 Learning, experimenting, and improving every day
+- 🤝 Open to collaborations and interesting opportunities
+- 💡 Curious about technology, AI, and product building
+- ☕ Usually found debugging something that worked yesterday
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Around the Internet
 
-- Portfolio: https://portfolio-main-ebon-three.vercel.app/
-- LinkedIn: https://www.linkedin.com/in/vishal-raman-80b60525b/
-- Email: ramanvishal29@email.com
+- Portfolio → https://portfolio-main-ebon-three.vercel.app/
+- LinkedIn → https://www.linkedin.com/in/vishal-raman-80b60525b/
+- Medium → https://medium.com/@thevishalmisra
+- Email → ramanvishal29@email.com
 
-## Want to Read Something Intresting ?
+---
 
-- Medium: https://medium.com/@thevishalmisra
+## 📖 A Small Reminder
+
+> Great products aren't built in a day. They're built one improvement at a time.
 
 ---
 
