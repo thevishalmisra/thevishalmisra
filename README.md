@@ -4,7 +4,7 @@
 <h3 align="center">Building ideas, learning continuously, and enjoying the process.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalraman29&label=Profile%20views&color=0e75b6&style=flat" alt="vishalraman29" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevishalmisra&label=Profile%20views&color=0e75b6&style=flat" alt="vishalraman29" /> </p>
 
 - 🚀 Turning ideas into real-world applications
 
@@ -37,11 +37,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevishalmisra&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en" alt="stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="streak-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&" alt="streak-stats" /></p>
  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <picture>
