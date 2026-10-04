@@ -1,59 +1,47 @@
-<div align="center">
+[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--PurSF_jJ--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/h9hrqci095gjctvz9pmz.gif)](https://portfolio-main-ebon-three.vercel.app/)
 
-# Hey, I'm Vishal Raman 👋
+<h1 align="center">Hi 👋, I'm Vishal Raman</h1>
+<h3 align="center">Building ideas, learning continuously, and enjoying the process.</h3>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-### Building ideas, learning continuously, and enjoying the process.
-
-<p>
-  <a href="https://portfolio-main-ebon-three.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/vishal-raman-80b60525b/">LinkedIn</a> •
-  <a href="mailto:ramanvishal29@email.com">Email</a>
-</p>
-
-<img
-  src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
-  width="100%"
-  height="220"
-  alt="Coding Banner"
-/>
-
-</div>
-
----
-
-## 👋 About Me
-
-I'm Vishal, a Computer Science graduate who enjoys creating useful products, solving problems, and exploring new technologies.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalraman29&label=Profile%20views&color=0e75b6&style=flat" alt="vishalraman29" /> </p>
 
 - 🚀 Turning ideas into real-world applications
-- 🌱 Learning, experimenting, and improving every day
-- 🤝 Open to collaborations and interesting opportunities
-- 💡 Curious about technology, AI, and product building
-- ☕ Usually found debugging something that worked yesterday
 
----
+- 🌱 I’m currently **learning, experimenting, and improving every day**
 
-## 🌐 Around the Internet
+- 💬 Ask me about **Web Development, AI & Product Building**
 
-- Portfolio → https://portfolio-main-ebon-three.vercel.app/
-- LinkedIn → https://www.linkedin.com/in/vishal-raman-80b60525b/
-- Medium → https://medium.com/@thevishalmisra
-- Email → ramanvishal29@email.com
+- 📫 How to reach me **ramanvishal29@email.com**
 
----
+- ⚡ Fun fact **Usually found debugging something that worked yesterday**
 
-## 📖 A Small Reminder
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://portfolio-main-ebon-three.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/web.svg" alt="portfolio" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vishal-raman-80b60525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-raman" height="30" width="40" /></a>
+<a href="https://medium.com/@thevishalmisra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="mailto:ramanvishal29@email.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+</p>
 
-> Great products aren't built in a day. But great ideas are built overnight.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
+</p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
 
-<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&locale=en" alt="stats" /></p>
 
-Thanks for stopping by! ⭐
-
-</div>
- 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&" alt="streak-stats" /></p>
  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <picture>
