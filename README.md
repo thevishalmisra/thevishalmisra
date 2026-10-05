@@ -34,10 +34,9 @@
   </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express-FFFFFF?style=for-the-badge&logo=express&logoColor=black" alt="express" height="34"/>
-  </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" style="filter: invert(1);"/>
+</a>
   <a href="https://chatgpt.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/chatgpt.png" alt="chatgpt" width="40" height="40"/>
   </a>
