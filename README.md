@@ -56,7 +56,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
     </p>
-### Github Stats
+    
+## 📈 GitHub Stats
     
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevishalmisra&show_icons=true&locale=en&layout=compact&hide=nasl,cython,jupyter%20notebook&theme=tokyonight" alt="top-langs" /></p>
 
