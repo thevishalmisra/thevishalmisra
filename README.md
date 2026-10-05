@@ -10,7 +10,7 @@
 
 - 🌱 currently **learning, experimenting, and improving e̶v̶e̶r̶y̶d̶a̶y̶**
 
-- 💬 Ask me about **Web Development, AI & Product Building**
+- 💬 Ask me about **Aanything you think falls under my domain of knowledge.**
 
 - 📫 How to reach me **ramanvishal29@email.com** or https://tinyurl.com/bdfhmum2 
 
