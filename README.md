@@ -18,10 +18,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://portfolio-main-ebon-three.vercel.app/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="portfolio" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/vishal-raman-80b60525b/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-raman" height="30" width="40" /></a>
-  <a href="https://medium.com/@thevishalmisra" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
-  <a href="mailto:ramanvishal29@email.com" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+  <a href="https://portfolio-main-ebon-three.vercel.app/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="portfolio" height="36" width="36" /></a> &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/vishal-raman-80b60525b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-raman" height="30" width="40" /></a> &nbsp;&nbsp;
+  <a href="https://medium.com/@thevishalmisra" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> &nbsp;&nbsp;
+  <a href="mailto:ramanvishal29@email.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="email" height="28" width="36" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
