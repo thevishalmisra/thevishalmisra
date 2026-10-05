@@ -8,7 +8,7 @@
 
 - 🚀 Turning ideas into real-world applications
 
-- 🌱 I’m currently **learning, experimenting, and improving every day**
+- 🌱 currently **learning, experimenting, and improving e̶v̶e̶r̶y̶d̶a̶y̶**
 
 - 💬 Ask me about **Web Development, AI & Product Building**
 
@@ -51,6 +51,9 @@
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevishalmisra&show_icons=true&locale=en&layout=compact&hide=nasl,cython,jupyter%20notebook&theme=tokyonight" alt="top-langs" /></p>
