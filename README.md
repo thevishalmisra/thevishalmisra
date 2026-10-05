@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development, AI & Product Building**
 
-- 📫 How to reach me **ramanvishal29@email.com** or ** https://tinyurl.com/bdfhmum2 **
+- 📫 How to reach me **ramanvishal29@email.com** or https://tinyurl.com/bdfhmum2 
 
 - ⚡ Fun fact **My mind clicks only when things hit hard.**
 
