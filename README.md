@@ -37,11 +37,11 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevishalmisra&show_icons=true&locale=en&layout=compact" alt="top-langs" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thevishalmisra&show_icons=true&locale=en&layout=compact&hide=nasl,cython,jupyter%20notebook&theme=tokyonight" alt="top-langs" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en" alt="stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&" alt="streak-stats" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=tokyonight" alt="streak-stats" /></p>
  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <picture>
