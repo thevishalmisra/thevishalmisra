@@ -12,9 +12,9 @@
 
 - 💬 Ask me about **Web Development, AI & Product Building**
 
-- 📫 How to reach me **ramanvishal29@email.com**
+- 📫 How to reach me **ramanvishal29@email.com** or ** https://tinyurl.com/bdfhmum2 **
 
-- ⚡ Fun fact **Usually found debugging something that worked yesterday**
+- ⚡ Fun fact **My mind clicks only when things hit hard.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
