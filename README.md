@@ -4,7 +4,9 @@
 <h3 align="center">Building ideas, learning continuously, and enjoying the process.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thevishalmisra&label=Profile%20views&color=0e75b6&style=flat" alt="vishalraman29" /> </p>
+<p align="left">
+  <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fthevishalmisra&icon=github&color=%23198754" alt="Views" />
+</p>
 
 - 🚀 Turning ideas into real-world applications
 
