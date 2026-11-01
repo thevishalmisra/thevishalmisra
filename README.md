@@ -61,10 +61,6 @@
     
 ## 📈 GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)]https://github.com/anuraghazra/github-readme-stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=tokyonight" alt="streak-stats" /></p>
  
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
