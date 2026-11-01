@@ -61,9 +61,7 @@
     
 ## 📈 GitHub Stats
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&show_icons=true&locale=en&layout=compact&hide=nasl,cython,jupyter%20notebook&theme=tokyonight" alt="top-langs" />
-</p>
+https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)]https://github.com/anuraghazra/github-readme-stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" /></p>
 
