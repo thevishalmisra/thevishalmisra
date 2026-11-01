@@ -61,6 +61,10 @@
     
 ## 📈 GitHub Stats
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thevishalmisra&show_icons=true&locale=en&layout=compact&hide=nasl,cython,jupyter%20notebook&theme=tokyonight" alt="top-langs" />
+</p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thevishalmisra&show_icons=true&locale=en&count_private=true&include_all_commits=true&theme=tokyonight" alt="stats" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thevishalmisra&theme=tokyonight" alt="streak-stats" /></p>
