@@ -29,42 +29,53 @@
 <h3 align="left">Languages and Tools:</h3>
 
 
-<h3>Technical Skills</h3>
+<h3>Technical Skills</h3> 🚀
 
 <p align="left">
-<strong>Languages:</strong><br/>
-<img src="https://skillicons.dev/icons?i=java,js,ts" height="40"/>
+  <strong>Languages:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts" height="40" alt="Java, JavaScript, TypeScript"/>
 </p>
 
 <p align="left">
-<strong>Frontend:</strong><br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,framer,bootstrap" height="40"/>
+  <strong>Frontend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,framer,bootstrap" height="40" alt="Frontend Skills"/>
 </p>
 
 <p align="left">
-<strong>Backend:</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis" height="40"/>
+  <strong>Backend:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,redis" height="40" alt="Backend Skills"/>
+  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Load_Balancing-4285F4?style=flat" height="25"/>
 </p>
 
 <p align="left">
-<strong>AI:</strong><br/>
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
+  <strong>AI:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
+  <img src="https://img.shields.io/badge/MCV-555555?style=flat" height="25"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat" height="25"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat&logo=openai&logoColor=white" height="25"/>
 </p>
 
 <p align="left">
-<strong>Database:</strong><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
+  <strong>Database:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40" alt="MongoDB, MySQL"/>
 </p>
 
 <p align="left">
-<strong>Cloud & DevOps:</strong><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,firebase" height="40"/>
+  <strong>Cloud & DevOps:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,firebase" height="40" alt="Docker, Git, Firebase"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Git_Workflows-2496ED?style=flat&logo=githubactions&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Environment_Configuration-555555?style=flat" height="25"/>
 </p>
 
 <p align="left">
-<strong>Tools & Platforms:</strong><br/>
-<img src="https://skillicons.dev/icons?i=github,vscode,cursor,openai,vercel,postman,socketio" height="40"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
+  <strong>Tools & Platforms:</strong><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,openai,vercel,postman" height="40" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="WebSockets Socket.IO"/>
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="25"/>
 </p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
