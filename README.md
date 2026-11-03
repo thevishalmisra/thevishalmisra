@@ -31,83 +31,41 @@
 
 <h3>Technical Skills</h3>
 
-
-<h3 align="left">Technical Skills</h3>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<strong>Languages:</strong><br/><br/>
+<p align="left">
+<strong>Languages:</strong><br/>
 <img src="https://skillicons.dev/icons?i=java,js,ts" height="40"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
-
-<strong>Frontend:</strong><br/><br/>
+<p align="left">
+<strong>Frontend:</strong><br/>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,framer,bootstrap" height="40"/>
+</p>
 
-</td>
-</tr>
+<p align="left">
+<strong>Backend:</strong><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,redis" height="40"/>
+</p>
 
-<tr>
-<td width="50%" valign="top">
-
-<strong>Backend:</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,redis" height="40"/><br/>
-<img src="https://img.shields.io/badge/REST_APIs-02569B?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/JWT_Authentication-000000?style=flat&logo=jsonwebtokens&logoColor=white"/>
-<img src="https://img.shields.io/badge/Load_Balancing-4285F4?style=flat"/>
-
-</td>
-<td width="50%" valign="top">
-
-<strong>AI:</strong><br/><br/>
+<p align="left">
+<strong>AI:</strong><br/>
 <img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://img.shields.io/badge/MCV-555555?style=flat"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat"/>
-<img src="https://img.shields.io/badge/ChromaDB-FF6F61?style=flat"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-412991?style=flat"/>
+</p>
 
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong>Database:</strong><br/><br/>
+<p align="left">
+<strong>Database:</strong><br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="40"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+<p align="left">
+<strong>Cloud & DevOps:</strong><br/>
+<img src="https://skillicons.dev/icons?i=docker,git,firebase" height="40"/>
+</p>
 
-<strong>Cloud & DevOps:</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=docker,git,firebase" height="40"/><br/>
-<img src="https://img.shields.io/badge/CI%2FCD-Git_Workflows-2496ED?style=flat&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Environment_Configuration-555555?style=flat"/>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-<strong>Tools & Platforms:</strong><br/><br/>
-<img src="https://skillicons.dev/icons?i=github,vscode,cursor,openai,vercel,postman" height="40"/><br/>
-<img src="https://skillicons.dev/icons?i=socketio" height="40"/>
+<p align="left">
+<strong>Tools & Platforms:</strong><br/>
+<img src="https://skillicons.dev/icons?i=github,vscode,cursor,openai,vercel,postman,socketio" height="40"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black"/>
-
-</td>
-<td width="50%" valign="top">
-
-</td>
-</tr>
-</table>
-
-
-
-    
+</p>
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
