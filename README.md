@@ -47,7 +47,7 @@
 </p>
 
 <p align="left">
-  <strong>AI:- Learning</strong><br/>
+  <strong>AI:</strong><br/>
   <img src="https://skillicons.dev/icons?i=python" height="40" alt="Python"/>
   <img src="https://img.shields.io/badge/MCV-555555?style=flat" height="25"/>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" height="25"/>
