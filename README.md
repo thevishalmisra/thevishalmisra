@@ -28,9 +28,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-
-<h3>Technical Skills</h3> 🚀
-
 <p align="left">
   <strong>Languages:</strong><br/>
   <img src="https://skillicons.dev/icons?i=java,js,ts" height="40" alt="Java, JavaScript, TypeScript"/>
