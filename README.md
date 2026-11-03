@@ -67,10 +67,6 @@
   <img width="49%" src="https://streak-stats.demolab.com?user=thevishalmisra&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img width="45%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=thevishalmisra&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
 ### 🚀 My contributions! Whose <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> snake is this!? 😭
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/thevishalmisra/thevishalmisra/output/github-contribution-grid-snake-dark.svg" />
