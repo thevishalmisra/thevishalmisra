@@ -35,7 +35,7 @@
 
 <p align="left">
   <strong>Frontend:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,framer,bootstrap" height="40" alt="Frontend Skills"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,vite,bootstrap" height="40" alt="Frontend Skills"/>
 </p>
 
 <p align="left">
@@ -70,7 +70,7 @@
 
 <p align="left">
   <strong>Tools & Platforms:</strong><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,cursor,openai,vercel,postman" height="40" alt="Tools and Platforms"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" height="40" alt="Tools and Platforms"/>
   <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="WebSockets Socket.IO"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="25"/>
 </p>
