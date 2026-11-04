@@ -71,7 +71,6 @@
 <p align="left">
   <strong>Tools & Platforms:</strong><br/>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman" height="40" alt="Tools and Platforms"/>
-  <img src="https://skillicons.dev/icons?i=socketio" height="40" alt="WebSockets Socket.IO"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" height="25"/>
 </p>
 
